@@ -47,8 +47,8 @@ pacman -S --needed \
   mingw-w64-x86_64-ninja \
   mingw-w64-x86_64-pkgconf \
   mingw-w64-x86_64-glfw \
-  mingw-w64-x86_64-librtlsdr \
-  mingw-w64-x86_64-libhackrf \
+  mingw-w64-x86_64-rtl-sdr \
+  mingw-w64-x86_64-hackrf \
   mingw-w64-x86_64-libusb \
   mingw-w64-x86_64-zstd \
   mingw-w64-x86_64-libogg \
